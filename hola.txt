@@ -1,6 +1,0 @@
-<<<<<<< HEAD
-ola k ase 
-prueba1
-=======
-hola que haces
->>>>>>> tarea1
